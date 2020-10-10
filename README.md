@@ -1,1 +1,1 @@
-This branch is tailored to 'Plants' section of personal statement. 
+This branch is tailored to 'Plants' section of the personal statement. 
