@@ -1,1 +1,1 @@
-This branch is tailored to the 'Imaging' section of the Statement of Purpose.
+This branch is tailored to the 'Imaging' section of the statement of purpose.
