@@ -1,1 +1,1 @@
-This branch is tailored to the 'Plants' section of the statement of purpose.
+This branch is tailored to the 'Plants' section of the Statement of Purpose.
